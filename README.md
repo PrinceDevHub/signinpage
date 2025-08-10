@@ -11,9 +11,6 @@ This form allows users to switch between login and registration (signup) with a 
 - Responsive layout (can be adapted for mobile)
 - Easy to integrate into any website or project
 
- 🖼️ Preview
-<img width="721" height="887" alt="image" src="https://github.com/user-attachments/assets/6ff0e2cd-8161-435f-8994-33820b1cdc22" />
-
  🔧 How It Works
 
 - The page includes two main form sections: one for login, one for signup.
@@ -35,5 +32,8 @@ This project uses no external libraries — just pure HTML, CSS, and JavaScript.
 - Update `style.css` to change colors, fonts, or layout.
 - Add form validation or connect to a backend (like Firebase, Node.js, etc.) as needed.
 - Make the form mobile-friendly with media queries.
+
+ 🖼️ Preview
+<img width="721" height="887" alt="image" src="https://github.com/user-attachments/assets/6ff0e2cd-8161-435f-8994-33820b1cdc22" />
 
 
