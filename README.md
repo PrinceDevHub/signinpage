@@ -33,7 +33,6 @@ This project uses no external libraries — just pure HTML, CSS, and JavaScript.
 - Add form validation or connect to a backend (like Firebase, Node.js, etc.) as needed.
 - Make the form mobile-friendly with media queries.
 
- 🖼️ Preview
 <img width="721" height="887" alt="image" src="https://github.com/user-attachments/assets/6ff0e2cd-8161-435f-8994-33820b1cdc22" />
 
 
